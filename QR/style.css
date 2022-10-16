@@ -1,0 +1,126 @@
+@media (max-width: 2200px) {
+.main{
+    text-align: center;
+    border: 6px solid white;
+    border-radius: 15px; 
+    margin: 130px 630px;
+    background-color: white;
+
+}
+img{
+  width: 96%;
+  border: 8px solid white;
+  border-radius: 15px;  
+}
+.images{
+margin-right: 5px;
+}
+body{
+    background-color: #dde3ea;
+}
+span{
+  font-family: sans-serif;
+}
+h3{
+  font-weight: bolder;
+  font-size: 17px;
+  line-height: 22px;
+  color: #25292e;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+ font-weight: lighter;
+ font-size: 12px;
+ color: #adb5bd;
+ font-family: sans-serif;
+}
+
+
+}
+@media (max-width: 1490px) {
+.main{
+    
+ margin: 140px 589px;
+ height: 420px;
+
+}
+
+}
+
+@media (max-width: 1440px) {
+.main{
+  margin: 140px 550px;
+}
+
+}
+
+@media (max-width: 1350px) {
+.main{
+
+  margin: 140px 520px;
+
+}
+}
+
+@media (max-width: 1310px) {
+.main{
+  margin: 140px 500px;
+}
+}
+
+@media (max-width: 1250px) {
+.main{
+  margin: 140px 470px;
+}
+}
+
+@media (max-width: 1200px) {
+  .main{
+    margin: 140px 440px;
+  }
+  p{
+    font-size: 13px;
+  }
+  }
+
+@media (max-width: 1150px) {
+  .main{
+    margin: 140px 420px;
+  }
+}
+
+@media (max-width: 1110px) {
+  .main{
+    margin: 140px 400px;
+  }
+}
+
+@media (max-width: 1050px) {
+  .main{
+    margin: 140px 370px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .main{
+    margin: 140px 350px;
+  }
+}
+
+@media (max-width: 970px) {
+  .main{
+    margin: 140px 330px;
+  }
+}
+
+@media (max-width: 920px) {
+  .main{
+    margin: 140px 300px;
+  }
+}
+
+@media (max-width: 840px) {
+  .main{
+    margin: 140px 270px;
+  }
+}
